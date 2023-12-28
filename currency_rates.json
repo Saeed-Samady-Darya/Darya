@@ -1,0 +1,26 @@
+{
+  "card_1": {
+    "currency": "USD",
+    "symbol": "",
+    "buy": "69.5",
+    "sell": "70"
+  },
+  "card_2": {
+    "currency": "EURO",
+    "symbol": "\u20ac",
+    "buy": "79.78",
+    "sell": "78.78"
+  },
+  "card_3": {
+    "currency": "pound",
+    "symbol": "\u00a3",
+    "buy": "91.63",
+    "sell": "92.63"
+  },
+  "card_4": {
+    "currency": "INR",
+    "symbol": "\u20b9",
+    "buy": "0.87",
+    "sell": "0.88"
+  }
+}
